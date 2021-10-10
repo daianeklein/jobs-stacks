@@ -130,3 +130,6 @@ dmypy.json
 
 # folder
 Python/
+
+#dataset
+df1.csv
