@@ -133,3 +133,7 @@ Python/
 
 #dataset
 df1.csv
+cleaned_data4.csv
+
+#notebook
+draft.ipynb
