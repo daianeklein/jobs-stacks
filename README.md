@@ -6,9 +6,9 @@
 
 The aim of this project is to analyze the mains skills required in some jobs position in the Data field. To do so, it's divided into two parts: data collection, in this case, web scraping and data analysis.
 
-- For Web Scraping, the notebook is named web-scraping.ipynb <a href="https://github.com/daianeklein/jobs-stacks/blob/main/web-scraping.ipynb">Notebook</a>
+- For Web Scraping, the notebook was named: web-scraping.ipynb <a href="https://github.com/daianeklein/jobs-stacks/blob/main/web-scraping.ipynb">Notebook</a>
 
-- For data analysis, the notebook is named jobs-stacks-analysis.ipynb <a href="https://github.com/daianeklein/jobs-stacks/blob/main/jobs-stacks-analysis.ipynb">Notebook</a>
+- For data analysis, the notebook was named: jobs-stacks-analysis.ipynb <a href="https://github.com/daianeklein/jobs-stacks/blob/main/jobs-stacks-analysis.ipynb">Notebook</a>
 
 The analysis is separate into job positions - Data Engineering, Data Science, or Business Intelligence field and into job level - intern, junior or senior seniority.
 
