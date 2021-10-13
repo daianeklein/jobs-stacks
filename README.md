@@ -2,7 +2,7 @@
  
 ***
 
-## 📊 JOBS POSITIONS IN THE DATA FIELD
+## 📊 JOB POSITIONS IN THE DATA FIELD
 
 The aim of this project is to analyze the mains skills required in some jobs position in the Data field. To do so, it's divided into two parts: data collection, in this case, web scraping and data analysis.
 
