@@ -8,7 +8,11 @@
 <img src="https://i.ibb.co/px6cssH/unnamed.png" alt="unnamed" width="280" height="280" data-load="full" alt="centered image">
 </p>
 
-The aim of this project is to analyze the mains skills required in some jobs position in the Data field. To do so, it's divided into two parts: data collection, in this case, web scraping and data analysis.
+The aim of this project is to analyze the mains skills required in some jobs position in the Data field. To do so, it's divided into two parts: 
+
+1. Data collection
+
+2. Web scraping and data analysis.
 
 - For Web Scraping, the notebook was named: web-scraping.ipynb <a href="https://github.com/daianeklein/jobs-stacks/blob/main/web-scraping.ipynb">Notebook</a>
 
